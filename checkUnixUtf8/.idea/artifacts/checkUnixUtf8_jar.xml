@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="checkUnixUtf8:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/checkUnixUtf8_jar</output-path>
+    <root id="archive" name="checkUnixUtf8.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="checkUnixUtf8" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/albfernandez/juniversalchardet/2.1.0/juniversalchardet-2.1.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
